@@ -1,0 +1,32 @@
+{
+  "name": "bubot",
+  "version": "0.0.0",
+  "description": "A Hubot for bouzuya",
+  "main": "index.js",
+  "scripts": {
+    "start": "hubot -a b -r node_modules/hubot/src/scripts/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/bubot.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": {
+    "name": "bouzuya",
+    "mail": "m@bouzuya.net",
+    "url": "http://bouzuya.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouzuya/bubot/issues"
+  },
+  "homepage": "https://github.com/bouzuya/bubot",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "hubot": "^2.8.2",
+    "hubot-b": "^1.0.0"
+  }
+}
