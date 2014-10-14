@@ -27,6 +27,7 @@
   "dependencies": {
     "coffee-script": "^1.8.0",
     "hubot": "^2.8.2",
-    "hubot-b": "^1.0.0"
+    "hubot-b": "^1.0.0",
+    "hubot-chiebukuro": "git://github.com/bouzuya/hubot-chiebukuro.git#1.0.0"
   }
 }
