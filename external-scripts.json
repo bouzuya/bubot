@@ -1,5 +1,6 @@
 [
   "hubot-chiebukuro",
   "hubot-furigana",
-  "hubot-kancolle"
+  "hubot-kancolle",
+  "hubot-randict"
 ]
