@@ -4,5 +4,6 @@
   "hubot-furigana",
   "hubot-kancolle",
   "hubot-marimo",
-  "hubot-randict"
+  "hubot-randict",
+  "hubot-yahoo-geocoder"
 ]
