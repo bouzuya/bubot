@@ -9,10 +9,6 @@ A Hubot for bouzuya.
     $ npm install
     $ npm start
 
-## Development
-
-`npm run`
-
 ## License
 
 [MIT](LICENSE)
@@ -27,12 +23,12 @@ A Hubot for bouzuya.
 [![Dependencies status][david-dm-badge]][david-dm]
 [![Coverage Status][coveralls-badge]][coveralls]
 
-[travis]: https://travis-ci.org/bouzuya/hubot-XXX
-[travis-badge]: https://travis-ci.org/bouzuya/hubot-XXX.svg?branch=master
-[david-dm]: https://david-dm.org/bouzuya/hubot-XXX
-[david-dm-badge]: https://david-dm.org/bouzuya/hubot-XXX.png
-[coveralls]: https://coveralls.io/r/bouzuya/hubot-XXX
-[coveralls-badge]: https://img.shields.io/coveralls/bouzuya/hubot-XXX.svg
+[travis]: https://travis-ci.org/bouzuya/bubot
+[travis-badge]: https://travis-ci.org/bouzuya/bubot.svg?branch=master
+[david-dm]: https://david-dm.org/bouzuya/bubot
+[david-dm-badge]: https://david-dm.org/bouzuya/bubot.png
+[coveralls]: https://coveralls.io/r/bouzuya/bubot
+[coveralls-badge]: https://img.shields.io/coveralls/bouzuya/bubot.svg
 [user]: https://github.com/bouzuya
 [mail]: mailto:m@bouzuya.net
 [url]: http://bouzuya.net
