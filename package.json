@@ -28,6 +28,7 @@
     "coffee-script": "^1.8.0",
     "hubot": "^2.9.0",
     "hubot-b": "^1.0.0",
+    "hubot-bbn-tags": "git://github.com/bouzuya/hubot-bbn-tags.git#1.0.0",
     "hubot-chiebukuro": "git://github.com/bouzuya/hubot-chiebukuro.git#1.0.0",
     "hubot-desune-wakarimasu": "git://github.com/bouzuya/hubot-desune-wakarimasu.git#1.0.0",
     "hubot-furigana": "git://github.com/bouzuya/hubot-furigana.git#1.0.0",
