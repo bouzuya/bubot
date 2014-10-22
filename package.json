@@ -36,6 +36,7 @@
     "hubot-hatena-bookmark-hotentry": "git://github.com/bouzuya/hubot-hatena-bookmark-hotentry.git#1.0.0",
     "hubot-kancolle": "git://github.com/bouzuya/hubot-kancolle.git#1.0.1",
     "hubot-marimo": "git://github.com/bouzuya/hubot-marimo.git#2.0.0",
+    "hubot-qr": "git://github.com/bouzuya/hubot-qr.git#1.0.0",
     "hubot-randict": "git://github.com/bouzuya/hubot-randict.git#2.0.0",
     "hubot-yahoo-geocoder": "git://github.com/bouzuya/hubot-yahoo-geocoder.git#1.0.0"
   }
