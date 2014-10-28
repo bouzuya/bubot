@@ -34,6 +34,7 @@
     "hubot-chiebukuro": "https://github.com/bouzuya/hubot-chiebukuro/archive/1.0.0.tar.gz",
     "hubot-claudia": "https://github.com/bouzuya/hubot-claudia/archive/1.0.1.tar.gz",
     "hubot-desune-wakarimasu": "https://github.com/bouzuya/hubot-desune-wakarimasu/archive/1.0.0.tar.gz",
+    "hubot-diagnostics": "0.0.1",
     "hubot-fumo": "https://github.com/bouzuya/hubot-fumo/archive/1.0.0.tar.gz",
     "hubot-furigana": "https://github.com/bouzuya/hubot-furigana/archive/1.0.0.tar.gz",
     "hubot-hatena-bookmark-hotentry": "https://github.com/bouzuya/hubot-hatena-bookmark-hotentry/archive/1.0.0.tar.gz",
