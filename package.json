@@ -47,6 +47,7 @@
     "hubot-qr": "https://github.com/bouzuya/hubot-qr/archive/1.0.0.tar.gz",
     "hubot-randict": "https://github.com/bouzuya/hubot-randict/archive/2.0.0.tar.gz",
     "hubot-sakagemc": "https://github.com/bouzuya/hubot-sakagemc/archive/1.0.1.tar.gz",
+    "hubot-search-bbn-by-min": "https://github.com/bouzuya/hubot-search-bbn-by-min/archive/1.0.0.tar.gz",
     "hubot-umiharakawase": "https://github.com/bouzuya/hubot-umiharakawase/archive/1.0.0.tar.gz",
     "hubot-yahoo-geocoder": "https://github.com/bouzuya/hubot-yahoo-geocoder/archive/1.0.0.tar.gz"
   }
