@@ -27,6 +27,7 @@
   "dependencies": {
     "coffee-script": "^1.8.0",
     "hubot": "^2.9.0",
+    "hubot-aws-quiz": "https://github.com/bouzuya/hubot-aws-quiz/archive/1.0.0.tar.gz",
     "hubot-b": "^1.0.0",
     "hubot-backlog-assign": "https://github.com/bouzuya/hubot-backlog-assign/archive/1.0.0.tar.gz",
     "hubot-bbn-min-graph": "https://github.com/bouzuya/hubot-bbn-min-graph/archive/1.0.0.tar.gz",
